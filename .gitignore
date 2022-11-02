@@ -36,3 +36,7 @@ GDpp/.vs/*
 
 # Compiled Files
 GDpp/x64/*
+GDpp/GDpp.sln
+GDpp/GDpp.vcxproj
+GDpp/GDpp.vcxproj.filters
+GDpp/GDpp.vcxproj.user
