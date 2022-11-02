@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# VS Files
+GDpp/.vs/*
+
+# Compiled Files
+GDpp/x64/*
